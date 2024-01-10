@@ -8,7 +8,6 @@ This project focuses on data cleaning using SQL queries, providing a comprehensi
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
 - [License](#license)
 
 ## Introduction
@@ -21,7 +20,8 @@ To use the scripts in this project, you need:
 
 - Access to a SQL database (e.g., MySQL, PostgreSQL, SQLite)
 - Basic knowledge of SQL syntax
-   
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
 
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify the code as needed.
 You can copy the above markdown and paste it directly into the README.md file in your GitHub repository. Adjust the content as needed for your specific project details.
